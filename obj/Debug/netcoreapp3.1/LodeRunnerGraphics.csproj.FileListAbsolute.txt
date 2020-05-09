@@ -1,0 +1,36 @@
+C:\Users\Atuya\source\repos\LodeRunnerGraphics\LodeRunnerGraphics\bin\Debug\netcoreapp3.1\LodeRunnerGraphics.exe
+C:\Users\Atuya\source\repos\LodeRunnerGraphics\LodeRunnerGraphics\bin\Debug\netcoreapp3.1\LodeRunnerGraphics.deps.json
+C:\Users\Atuya\source\repos\LodeRunnerGraphics\LodeRunnerGraphics\bin\Debug\netcoreapp3.1\LodeRunnerGraphics.runtimeconfig.json
+C:\Users\Atuya\source\repos\LodeRunnerGraphics\LodeRunnerGraphics\bin\Debug\netcoreapp3.1\LodeRunnerGraphics.runtimeconfig.dev.json
+C:\Users\Atuya\source\repos\LodeRunnerGraphics\LodeRunnerGraphics\bin\Debug\netcoreapp3.1\LodeRunnerGraphics.dll
+C:\Users\Atuya\source\repos\LodeRunnerGraphics\LodeRunnerGraphics\bin\Debug\netcoreapp3.1\LodeRunnerGraphics.pdb
+C:\Users\Atuya\source\repos\LodeRunnerGraphics\LodeRunnerGraphics\obj\Debug\netcoreapp3.1\LodeRunnerGraphics.csprojAssemblyReference.cache
+C:\Users\Atuya\source\repos\LodeRunnerGraphics\LodeRunnerGraphics\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Atuya\source\repos\LodeRunnerGraphics\LodeRunnerGraphics\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Atuya\source\repos\LodeRunnerGraphics\LodeRunnerGraphics\obj\Debug\netcoreapp3.1\LodeRunnerGraphics_MarkupCompile.cache
+C:\Users\Atuya\source\repos\LodeRunnerGraphics\LodeRunnerGraphics\obj\Debug\netcoreapp3.1\LodeRunnerGraphics_MarkupCompile.lref
+C:\Users\Atuya\source\repos\LodeRunnerGraphics\LodeRunnerGraphics\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Atuya\source\repos\LodeRunnerGraphics\LodeRunnerGraphics\obj\Debug\netcoreapp3.1\LodeRunnerGraphics.g.resources
+C:\Users\Atuya\source\repos\LodeRunnerGraphics\LodeRunnerGraphics\obj\Debug\netcoreapp3.1\LodeRunnerGraphics.AssemblyInfoInputs.cache
+C:\Users\Atuya\source\repos\LodeRunnerGraphics\LodeRunnerGraphics\obj\Debug\netcoreapp3.1\LodeRunnerGraphics.AssemblyInfo.cs
+C:\Users\Atuya\source\repos\LodeRunnerGraphics\LodeRunnerGraphics\obj\Debug\netcoreapp3.1\LodeRunnerGraphics.dll
+C:\Users\Atuya\source\repos\LodeRunnerGraphics\LodeRunnerGraphics\obj\Debug\netcoreapp3.1\LodeRunnerGraphics.pdb
+D:\Visual Studio\projects\LodeRunnerGraphics\LodeRunnerGraphics\bin\Debug\netcoreapp3.1\LodeRunnerGraphics.exe
+D:\Visual Studio\projects\LodeRunnerGraphics\LodeRunnerGraphics\bin\Debug\netcoreapp3.1\LodeRunnerGraphics.deps.json
+D:\Visual Studio\projects\LodeRunnerGraphics\LodeRunnerGraphics\bin\Debug\netcoreapp3.1\LodeRunnerGraphics.runtimeconfig.json
+D:\Visual Studio\projects\LodeRunnerGraphics\LodeRunnerGraphics\bin\Debug\netcoreapp3.1\LodeRunnerGraphics.runtimeconfig.dev.json
+D:\Visual Studio\projects\LodeRunnerGraphics\LodeRunnerGraphics\bin\Debug\netcoreapp3.1\LodeRunnerGraphics.dll
+D:\Visual Studio\projects\LodeRunnerGraphics\LodeRunnerGraphics\bin\Debug\netcoreapp3.1\LodeRunnerGraphics.pdb
+D:\Visual Studio\projects\LodeRunnerGraphics\LodeRunnerGraphics\obj\Debug\netcoreapp3.1\LodeRunnerGraphics.csprojAssemblyReference.cache
+D:\Visual Studio\projects\LodeRunnerGraphics\LodeRunnerGraphics\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Visual Studio\projects\LodeRunnerGraphics\LodeRunnerGraphics\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Visual Studio\projects\LodeRunnerGraphics\LodeRunnerGraphics\obj\Debug\netcoreapp3.1\LodeRunnerGraphics_MarkupCompile.cache
+D:\Visual Studio\projects\LodeRunnerGraphics\LodeRunnerGraphics\obj\Debug\netcoreapp3.1\LodeRunnerGraphics_MarkupCompile.lref
+D:\Visual Studio\projects\LodeRunnerGraphics\LodeRunnerGraphics\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Visual Studio\projects\LodeRunnerGraphics\LodeRunnerGraphics\obj\Debug\netcoreapp3.1\LodeRunnerGraphics.g.resources
+D:\Visual Studio\projects\LodeRunnerGraphics\LodeRunnerGraphics\obj\Debug\netcoreapp3.1\LodeRunnerGraphics.csproj.CoreCompileInputs.cache
+D:\Visual Studio\projects\LodeRunnerGraphics\LodeRunnerGraphics\obj\Debug\netcoreapp3.1\LodeRunnerGraphics.AssemblyInfoInputs.cache
+D:\Visual Studio\projects\LodeRunnerGraphics\LodeRunnerGraphics\obj\Debug\netcoreapp3.1\LodeRunnerGraphics.AssemblyInfo.cs
+D:\Visual Studio\projects\LodeRunnerGraphics\LodeRunnerGraphics\obj\Debug\netcoreapp3.1\LodeRunnerGraphics.dll
+D:\Visual Studio\projects\LodeRunnerGraphics\LodeRunnerGraphics\obj\Debug\netcoreapp3.1\LodeRunnerGraphics.pdb
+D:\Visual Studio\projects\LodeRunnerGraphics\LodeRunnerGraphics\obj\Debug\netcoreapp3.1\LodeRunnerGraphics.genruntimeconfig.cache
